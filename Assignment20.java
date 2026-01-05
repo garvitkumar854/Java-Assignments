@@ -1,3 +1,4 @@
+// WAP to Sum all Array Elements.
 import javax.swing.*;
 
 class Assignment20 {

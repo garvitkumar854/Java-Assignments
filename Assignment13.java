@@ -1,3 +1,4 @@
+// WAP to find Factorial of Number.
 import javax.swing.*;
 
 class Assignment13 {

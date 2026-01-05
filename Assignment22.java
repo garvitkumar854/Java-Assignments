@@ -1,3 +1,4 @@
+// WAP to Calculate Sum of each row in 2D-Array.
 import javax.swing.*;
 
 class Assignment22 {

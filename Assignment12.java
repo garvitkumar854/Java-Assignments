@@ -1,3 +1,4 @@
+// WAP to check a Prime Number.
 import javax.swing.*;
 
 class Assignment12 {

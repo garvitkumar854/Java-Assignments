@@ -1,3 +1,4 @@
+// WAP to Calculate sum of Diagonals in 2D-Array.
 import javax.swing.*;
 
 class Assignment23 {

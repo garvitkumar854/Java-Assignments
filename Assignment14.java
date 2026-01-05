@@ -1,3 +1,4 @@
+// WAP to Demonstrate Array (Method 1).
 class Assignment14 {
     public static void main(String[] args) {
         int arr[] = new int[4];

@@ -1,3 +1,4 @@
+// WAP to Transpose 2D-Array.
 import javax.swing.*;
 
 class Assignment24 {

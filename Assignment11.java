@@ -1,3 +1,4 @@
+// WAP to print Table of a Number.
 import javax.swing.*;
 
 class Assignment11 {

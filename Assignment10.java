@@ -1,3 +1,4 @@
+// WAP to check Vowel Case in a String.
 import javax.swing.*;
 
 class Assignment10 {

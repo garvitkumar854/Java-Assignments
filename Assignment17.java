@@ -1,3 +1,4 @@
+// WAP to Demonstrate 2D-Array (Method1).
 class Assignment17 {
     public static void main(String[] args) {
         int arr[][] = new int[2][2];

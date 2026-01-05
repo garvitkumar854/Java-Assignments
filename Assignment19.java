@@ -1,3 +1,4 @@
+// WAP to Demonstrate 2D-Array (Method3).
 import javax.swing.*;
 
 class Assignment19 {

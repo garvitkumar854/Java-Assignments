@@ -1,3 +1,4 @@
+// WAP to Demonstrate Array (Method 3).
 import javax.swing.*;
 
 class Assignment16 {

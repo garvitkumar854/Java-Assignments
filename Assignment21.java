@@ -1,3 +1,4 @@
+// WAP to perform Linear Search on 1D-Array.
 import javax.swing.*;
 
 class Assignment21 {

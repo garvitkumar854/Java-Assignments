@@ -1,3 +1,4 @@
+// WAP to Add Two Numbers - User Input.
 import javax.swing.*;
 
 class Assignment06 {

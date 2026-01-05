@@ -1,3 +1,4 @@
+// WAP to Create a Jagged-Array of 4, 5, 6.
 import javax.swing.*;
 
 class Assignment25 {

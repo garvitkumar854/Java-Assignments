@@ -1,3 +1,4 @@
+// User input - GUI Based.
 import javax.swing.*;
 
 class Assignment05 {

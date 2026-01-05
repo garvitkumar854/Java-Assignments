@@ -1,3 +1,4 @@
+// User input - CUI Based.
 import java.util.Scanner;
 
 class Assignment04 {

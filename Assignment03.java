@@ -1,3 +1,4 @@
+// Demonstrate All Datatypes.
 class Assignment03 {
     public static void main(String[] args) {
         byte b = 10;
