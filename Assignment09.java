@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-class Assignment9 {
+class Assignment09 {
     public static void main(String[] args) {
         int num1 = Integer.parseInt(JOptionPane.showInputDialog("Enter first number: "));
         int num2 = Integer.parseInt(JOptionPane.showInputDialog("Enter second number: "));

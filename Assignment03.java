@@ -1,4 +1,4 @@
-class Assignment3 {
+class Assignment03 {
     public static void main(String[] args) {
         byte b = 10;
         int num = 8;
