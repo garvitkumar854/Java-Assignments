@@ -1,8 +1,7 @@
 // WAP to create a jaaged array of 6, 7, 8 and calculate the sum of each row
+import javax.swing.*;
 
-import javax.swing.JOptionPane;
-
-class Assignment26{
+class Assignment26 {
     public static void main(String[] args) {
         int arr[][] = new int[3][];
         arr[0] = new int[4];

@@ -27,3 +27,5 @@
 23. [WAP to Calculate sum of Diagonals in 2D-Array.](/Assignment23.java)
 24. [WAP to Transpose 2D-Array.](/Assignment24.java)
 25. [WAP to Create a Jagged-Array of 4, 5, 6.](/Assignment25.java)
+26. [WAP to create a jaaged array of 6, 7, 8 and calculate the sum of each row](/Assignment26.java)
+27. [WAP to create jagged array of 3, 5, 7 and calculate the prime number in each row](/Assignment27.java)
