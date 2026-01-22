@@ -35,3 +35,6 @@
 31. [Demonstrate Multilevel Inheritance](/Assignment31.java)
 32. [Demonstrate Hierarchical Inheritance](/Assignment32.java)
 33. [Demonstrate Hybrid Inheritance](/Assignment33.java)
+34. [Demonstrate Interface's in Java](/Assignment34.java)
+35. [Demonstrate Multiple Inheritance](/Assignment35.java)
+36. [Demonstrate Hybrid Inheritance](/Assignment36.java)
