@@ -1,4 +1,4 @@
-// Demonstrate Multithreading using Runnable Class
+// Demonstrate Multithreading using Runnable Class.
 class Assignment46 implements Runnable {
     public void run(){
         System.out.println("Hello World");

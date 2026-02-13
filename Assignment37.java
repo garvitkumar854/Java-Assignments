@@ -1,4 +1,4 @@
-// WAP to declare single method in interface
+// WAP to declare single method in interface.
 interface MyInterface {
     void show();
 }

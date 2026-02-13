@@ -1,4 +1,4 @@
-// Demonstrate Hierarchical Inheritance
+// Demonstrate Hierarchical Inheritance.
 class Person {
     void showPerson() {
         System.out.println("I'm Person");

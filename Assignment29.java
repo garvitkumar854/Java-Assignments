@@ -1,4 +1,4 @@
-// Demonstrate Parameterized Constructor
+// Demonstrate Parameterized Constructor.
 import javax.swing.*;
 
 class Parameterized{

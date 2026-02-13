@@ -1,4 +1,4 @@
-// WAP to show inheritance of interface
+// WAP to show inheritance of interface.
 interface A {
     void showA();
 }

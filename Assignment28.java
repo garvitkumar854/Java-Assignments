@@ -1,4 +1,4 @@
-// Demonstrate Non Parameterized Constructor
+// Demonstrate Non Parameterized Constructor.
 class Default {
     public String first_name, last_name;
     int dd, mm, yyyy;

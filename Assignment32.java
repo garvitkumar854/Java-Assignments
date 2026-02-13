@@ -1,4 +1,4 @@
-// Demonstrate Multilevel Inheritance
+// Demonstrate Multilevel Inheritance.
 class Person {
     void showPerson() {
         System.out.println("I'm Person");

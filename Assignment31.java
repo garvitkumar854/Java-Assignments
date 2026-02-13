@@ -1,4 +1,4 @@
-// Demonstrate Single Inheritance 
+// Demonstrate Single Inheritance.
 class Person {
     void showPerson() {
         System.out.println("I'm Person");

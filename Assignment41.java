@@ -1,4 +1,4 @@
-// WAP to create multiple instance of same name of method in different interface
+// WAP to create multiple instance of same name of method in different interface.
 interface A {
     void show();
 }

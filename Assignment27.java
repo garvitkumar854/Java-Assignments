@@ -1,4 +1,4 @@
-// WAP to create jagged array of 3, 5, 7 and calculate the prime number in each row
+// WAP to create jagged array of 3, 5, 7 and calculate the prime number in each row.
 
 import javax.swing.*;
 

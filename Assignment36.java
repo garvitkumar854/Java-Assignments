@@ -1,4 +1,4 @@
-// Demonstrate Hybrid Inheritance
+// Demonstrate Hybrid Inheritance.
 interface A {
     void showA();
 }

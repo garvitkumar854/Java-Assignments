@@ -1,4 +1,4 @@
-// WAP to declare multiple methods in interface
+// WAP to declare multiple methods in interface.
 interface MyInterface {
 
     void show();

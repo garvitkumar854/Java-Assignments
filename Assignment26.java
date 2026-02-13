@@ -1,4 +1,4 @@
-// WAP to create a jaaged array of 6, 7, 8 and calculate the sum of each row
+// WAP to create a jaaged array of 6, 7, 8 and calculate the sum of each row.
 import javax.swing.*;
 
 class Assignment26 {

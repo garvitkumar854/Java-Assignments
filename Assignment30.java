@@ -1,4 +1,4 @@
-// Demonstrate Constructor Overloading
+// Demonstrate Constructor Overloading.
 class Over {
     public Number ans;
 

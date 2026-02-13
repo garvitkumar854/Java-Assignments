@@ -1,4 +1,4 @@
-// Demonstrate Multithreading using Extending Thread Class
+// Demonstrate Multithreading using Extending Thread Class.
 class Assignment45 {
     public void run(){
         System.out.println("Hello World");

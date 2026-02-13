@@ -1,4 +1,4 @@
-// WAP to implementing interface & extending class
+// WAP to implementing interface & extending class.
 class A {
     void showA() {
         System.out.println("From Class A");

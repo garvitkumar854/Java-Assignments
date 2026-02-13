@@ -1,6 +1,5 @@
-// Demonstrate the use of Thread class by creating a thread and printing the name of the thread and a message
+// Demonstrate the use of Thread class by creating a thread and printing the name of the thread and a message.
 class Assignment49 extends Thread{
-
     public void run(){
         System.out.println(Thread.currentThread().getName());
         for(int i=0; i<3; i++){

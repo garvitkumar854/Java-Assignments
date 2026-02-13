@@ -1,4 +1,4 @@
-// WAP to declare variable in interface
+// WAP to declare variable in interface.
 interface MyInterface {
     int x = 10; // public static final by default
 }

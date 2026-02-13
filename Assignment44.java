@@ -1,4 +1,4 @@
-// WAP to declare same name of variable in different interface
+// WAP to declare same name of variable in different interface.
 interface A {
     int x = 10;
 }
