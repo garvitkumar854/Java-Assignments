@@ -46,3 +46,8 @@
 42. [WAP to implementing interface & extending class](/Assignment42.java)
 43. [WAP to declare variable in interface](/Assignment43.java)
 44. [WAP to declare same name of variable in different interface](/Assignment44.java)
+45. [Demonstrate Multithreading using Extending Thread Class](/Assignment45.java)
+46. [Demonstrate Multithreading using Runnable Class](/Assignment46.java)
+47. [Demosntate the use of sleep() method in Thread class](/Assignment47.java)
+48. [Demonstrate the use of setName() and getName() methods of Thread class](/Assignment48.java)
+49. [Demonstrate the use of Thread class by creating a thread and printing the name of the thread and a message](/Assignment49.java)
