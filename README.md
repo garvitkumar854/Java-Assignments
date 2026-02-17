@@ -51,3 +51,5 @@
 47. [Demosntate the use of sleep() method in Thread class](/Assignment47.java)
 48. [Demonstrate the use of setName() and getName() methods of Thread class](/Assignment48.java)
 49. [Demonstrate the use of Thread class by creating a thread and printing the name of the thread and a message](/Assignment49.java)
+50. [Demonstrate try & catch blocks in java.](/Assignment50.java)
+51. [WAP to display the name and priority of the current thread.](/Assignment51.java)
