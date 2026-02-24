@@ -1,6 +1,6 @@
-// Demonstrate String Creation and chatAt(), compareTo() and compareToIgnoreCase() methods
-public class Assignment52{
-    public static void main(String[] args){
+// Demonstrate String Creation and chatAt(), compareTo() and compareToIgnoreCase() methods.
+public class Assignment52 {
+    public static void main(String[] args) {
         String str1 = new String("Hello");
         System.out.println("String is: " + str1);
 
