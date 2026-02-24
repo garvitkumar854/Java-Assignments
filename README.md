@@ -53,3 +53,4 @@
 49. [Demonstrate the use of Thread class by creating a thread and printing the name of the thread and a message.](/Assignment49.java)
 50. [Demonstrate try & catch blocks in java.](/Assignment50.java)
 51. [WAP to display the name and priority of the current thread.](/Assignment51.java)
+52. [Demonstrate String Creation and chatAt(), compareTo() and compareToIgnoreCase() methods](/Assignment52.java)
