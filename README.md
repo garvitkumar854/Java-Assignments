@@ -4,10 +4,10 @@
 
 Practice-focused Java programs from fundamentals to OOP, interfaces, multithreading, and strings.
 
-![Assignments](https://img.shields.io/badge/Assignments-52-2563eb)
+![Assignments](https://img.shields.io/badge/Assignments-56-2563eb)
 ![Language](https://img.shields.io/badge/Language-Java-f59e0b)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-16a34a)
-![Updated](https://img.shields.io/badge/Updated-Feb%202026-7c3aed)
+![Updated](https://img.shields.io/badge/Updated-Mar%202026-7c3aed)
 
 </div>
 
@@ -15,18 +15,18 @@ Practice-focused Java programs from fundamentals to OOP, interfaces, multithread
 
 ## Overview
 
-| Track | Topics | Assignment Range |
-| --- | --- | --- |
-| Basics | Output, input, operators, conditions, loops | 01-13 |
-| Arrays | 1D, 2D, jagged arrays, search, transpose | 14-27 |
-| OOP & Inheritance | Constructors, inheritance, interfaces | 28-44 |
-| Threads & Exceptions | Thread creation, naming, sleep, exception basics | 45-51 |
-| Strings | String creation and comparison methods | 52 |
+| Track                | Topics                                           | Assignment Range |
+| -------------------- | ------------------------------------------------ | ---------------- |
+| Basics               | Output, input, operators, conditions, loops      | 01-13            |
+| Arrays               | 1D, 2D, jagged arrays, search, transpose         | 14-27            |
+| OOP & Inheritance    | Constructors, inheritance, interfaces            | 28-44            |
+| Threads & Exceptions | Thread creation, naming, sleep, exception basics | 45-51            |
+| Strings              | String and StringBuffer methods                  | 52-56            |
 
 ## Table of Contents
 
 <details>
-<summary><b>Click to view all 52 assignments</b></summary>
+<summary><b>Click to view all 56 assignments</b></summary>
 
 1. [WAP to Display Text.](/Assignment01.java)
 2. [Difference Between print() and println().](/Assignment02.java)
