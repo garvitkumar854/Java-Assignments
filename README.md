@@ -80,7 +80,10 @@ Practice-focused Java programs from fundamentals to OOP, interfaces, multithread
 50. [Demonstrate try & catch Blocks in Java.](/Assignment50.java)
 51. [WAP to Display the Name and Priority of the Current Thread.](/Assignment51.java)
 52. [Demonstrate String Creation and charAt(), compareTo(), compareToIgnoreCase() Methods.](/Assignment52.java)
-
+53. [Demonstrate String Methods concat(), endsWith(), equals(), indexOf().](/Assignment53.java)
+54. [Demonstrate String Methods replace(), startsWith(), toUpperCase(), toLowerCase().](/Assignment54.java)
+55. [Demonstrate String Buffer Methods insert(), replace(), delete().](/Assignment55.java)
+56. [Demonstrate String Buffer Methods reverse(), length(), capacity().](/Assignment56.java)
 </details>
 
 ---
